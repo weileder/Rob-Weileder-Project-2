@@ -1,0 +1,36 @@
+/* Main Style Definitions */
+body {
+  min-height: 100vh;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  margin: 50px;
+  background-color: #ffe6cc;
+  padding: 20px;
+}
+
+h1 {
+  background-color: #ffbf00;
+  font-size: 250%;
+  text-align: center;
+  border-radius: 10px;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 150%;
+  text-align: center;
+}
+
+h3 {
+  background-color: #ffffcc;
+  font-size: 135%;
+}
+
+img {
+  padding-left: 50px;
+  max-width: 600px;
+}
+
+p {
+  line-height: 1.5em;
+}
